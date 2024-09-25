@@ -8,3 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ![alt text](https://github.com/nikhilgupta738/Brand_Page_using_ReactJS/blob/master/public/images/Brand_page.png)
+
+
+It is yet to be made responsive!
