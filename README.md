@@ -12,4 +12,4 @@ Currently, two official plugins are available:
 
 It is yet to be made responsive!
 
-`https://brandpageusingreactjs.netlify.app/`
+BrandPage-(https://brandpageusingreactjs.netlify.app/)
